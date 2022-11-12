@@ -1,0 +1,16 @@
+#+title: kernel1
+
+practice kernel
+- [ ] stack smashing
+- [ ] GDT/linker permissions
+- [ ] linker permissions
+- [ ] convert to aarch64 or x86_64?
+- [ ] memory management/higher half kernel
+  - [ ] paging/virtual memory
+  - [ ] heap (malloc/free)
+- [ ] IRQs/interrupt stuff
+- [ ] threading
+- [ ] debugging
+- [ ] fs
+
+userspace
